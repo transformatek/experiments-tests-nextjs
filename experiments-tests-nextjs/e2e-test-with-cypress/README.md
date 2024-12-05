@@ -1,0 +1,1 @@
+When running the test, I'm redirected to the following documentation: [Linux-Prerequisites](https://docs.cypress.io/app/get-started/install-cypress#Linux-Prerequisites) . It seems I might need to adjust my Linux configuration or set up Docker.
