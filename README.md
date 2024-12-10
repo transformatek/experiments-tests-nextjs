@@ -67,3 +67,20 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 For more details check `README.md` of each project.
+
+## Getting Started with selenium
+
+# Useful commands
+
+**install geckodriver for firefox**
+
+```
+curl -L https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-linux64.tar.gz | tar xz -C /usr/local/bin
+```
+
+**install chromedriver for chrome**
+
+```
+curl -L https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.87/linux64/chromedriver-linux64.zip -o chromedriver-linux64.zip && \
+unzip chromedriver-linux64.zip && cp chromedriver-linux64/chromedriver /usr/local/bin
+```
