@@ -84,3 +84,6 @@ curl -L https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodr
 curl -L https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.87/linux64/chromedriver-linux64.zip -o chromedriver-linux64.zip && \
 unzip chromedriver-linux64.zip && cp chromedriver-linux64/chromedriver /usr/local/bin
 ```
+
+
+https://www.zenrows.com/blog/selenium-nodejs
