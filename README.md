@@ -78,6 +78,8 @@ For more details check `README.md` of each project.
 curl -L https://github.com/mozilla/geckodriver/releases/download/v0.35.0/geckodriver-v0.35.0-linux64.tar.gz | tar xz -C /usr/local/bin
 ```
 
+
+
 **install chromedriver for chrome**
 
 ```
