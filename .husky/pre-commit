@@ -1,0 +1,2 @@
+cd explore-pre-commit-tools-app
+npm run pre-commit
