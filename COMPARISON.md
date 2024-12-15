@@ -2,30 +2,6 @@
 
 Experiments different testing framework for NextJS
 
-## User stories
-
-- [ ] As a software tests developper, I should be to implement tests in a NextJS project, in order to ensure high quality of the delivrables,
-- [ ] As a software tests developper, I should be have automated hooks that improve the quality of my code (on commit or push) , in order to ensure high quality of the delivrables,
-- [ ] As a software tests developper, I should get quick feedback of the quality of my code, in order to ensure high quality of the delivrables,
-- [ ] As a project maintainer, I should be able to check the code code quality on CI pipelines, in order to ensure high quality of the delivrables,
-
-## Steps
-
-- [x] List all relevant testing frameworks for NextJS in a nd MD file,
-- [x] List all open source software tool that can help to imporve code quality (SonarQube, Selenium...),
-- [x] Create a starter NextJS application,
-- [x] Create fake Page/... for testing,
-- [ ] Create a test for the UI/...,
-- [x] Update the README fie,
-- [x] Add comparison (Pros, Cons) of the frameworks and tools to the above MD file.
-
-## Requirements
-
-- [x] Test each Framework in a separate branch,
-- [x] Use devContainer extension to hanlde developement environement.
-
-# Useful Urls
-
 - NextJs officiel documentation : [nextjs.org](https://nextjs.org/docs/pages/building-your-application/testing)
 
 # Unit and Integration Testing Frameworks
