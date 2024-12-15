@@ -11,18 +11,18 @@ Experiments different testing framework for NextJS
 
 ## Steps
 
-- [ ] List all relevant testing frameworks for NextJS in a nd MD file,
-- [ ] List all open source software tool that can help to imporve code quality (SonarQube, Selenium...),
-- [ ] Create a starter NextJS application,
-- [ ] Create fake Page/... for testing,
+- [x] List all relevant testing frameworks for NextJS in a nd MD file,
+- [x] List all open source software tool that can help to imporve code quality (SonarQube, Selenium...),
+- [x] Create a starter NextJS application,
+- [x] Create fake Page/... for testing,
 - [ ] Create a test for the UI/...,
-- [ ] Update the README fie,
-- [ ] Add comparison (Pros, Cons) of the frameworks and tools to the above MD file.
+- [x] Update the README fie,
+- [x] Add comparison (Pros, Cons) of the frameworks and tools to the above MD file.
 
 ## Requirements
 
-- [ ] Test each Framework in a separate branch,
-- [ ] Use devContainer extension to hanlde developement environement.
+- [x] Test each Framework in a separate branch,
+- [x] Use devContainer extension to hanlde developement environement.
 
 # Useful Urls
 
