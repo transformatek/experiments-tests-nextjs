@@ -51,6 +51,11 @@ const config: Config = {
 export default createJestConfig(config)
 
 ```
+Add `jest.setup.ts` file with this content:
+
+```
+    "types": ["@testing-library/jest-dom"],
+```
 
 6- **Update tsconfig.json file** :
 
